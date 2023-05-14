@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "extratar_ultimate:telder_log",
+    "extratar_ultimate:stripped_telder_log",
+    "extratar_ultimate:telder_wood",
+    "extratar_ultimate:stripped_telder_wood",
+    "extratar_ultimate:telder_wooden_planks",
+    "extratar_ultimate:telder_stairs",
+    "extratar_ultimate:telder_slab",
+    "extratar_ultimate:telder_fence",
+    "extratar_ultimate:telder_fence_gate",
+    "extratar_ultimate:telder_door",
+    "extratar_ultimate:telder_trapdoor",
+    "extratar_ultimate:telder_chair",
+    "extratar_ultimate:telder_table",
+    "extratar_ultimate:telder_table_with_cloth",
+    "extratar_ultimate:telder_table_with_magic_cloth",
+    "extratar_ultimate:telder_crate",
+    "extratar_ultimate:lightelet",
+    "extratar_ultimate:yellowlume"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "## ",
+    " I#",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:wooden_pick",
+    "count": 1
+  }
+}

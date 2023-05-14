@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "extratar_ultimate:little_jar"
+    },
+    {
+      "item": "extratar_ultimate:yellow_peach"
+    },
+    {
+      "item": "extratar_ultimate:yellow_peach"
+    },
+    {
+      "item": "extratar_ultimate:yellow_peach"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "extratar_ultimate:peach_jam_jar"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "extratar_ultimate:block/telder_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "extratar_ultimate:block/telder_log"
+    },
+    "axis=z": {
+      "model": "extratar_ultimate:block/telder_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "extratar_ultimate:custom/telder_samovar",
+  "textures": {
+    "all": "extratar_ultimate:block/telder_samovar",
+    "particle": "extratar_ultimate:block/telder_samovar",
+    "0": "extratar_ultimate:block/telder_log_top",
+    "1": "extratar_ultimate:block/telder_samovar"
+  }
+}

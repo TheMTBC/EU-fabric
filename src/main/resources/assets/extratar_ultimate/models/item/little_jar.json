@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "extratar_ultimate:item/little_jar"
+  }
+}

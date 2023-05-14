@@ -1,0 +1,9 @@
+{
+  "parent": "extratar_ultimate:custom/soul_catching_structure",
+  "textures": {
+    "all": "extratar_ultimate:block/soul_catching_structure",
+    "particle": "extratar_ultimate:block/soul_catching_structure",
+    "0": "extratar_ultimate:block/little_jar",
+    "1": "extratar_ultimate:block/soul_catching_structure"
+  }
+}

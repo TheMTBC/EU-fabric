@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "extratar_ultimate:block/telder_wooden_planks"
+  }
+}

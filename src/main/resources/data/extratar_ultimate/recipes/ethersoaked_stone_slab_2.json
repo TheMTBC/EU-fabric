@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "extratar_ultimate:ethersoaked_stone"
+  },
+  "result": "extratar_ultimate:ethersoaked_stone_slab"
+}

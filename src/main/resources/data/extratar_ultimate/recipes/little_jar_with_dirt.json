@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "extratar_ultimate:little_jar"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "extratar_ultimate:little_jar_with_dirt"
+  }
+}

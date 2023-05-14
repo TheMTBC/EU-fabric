@@ -1,0 +1,11 @@
+{
+  "parent": "extratar_ultimate:custom/berry_pie_5",
+  "textures": {
+    "all": "extratar_ultimate:block/berry_pie_top",
+    "particle": "extratar_ultimate:block/berry_pie_top",
+    "0": "extratar_ultimate:block/berry_pie_top",
+    "1": "extratar_ultimate:block/berry_pie_bottom",
+    "2": "extratar_ultimate:block/berry_pie_inner",
+    "3": "extratar_ultimate:block/berry_pie_side"
+  }
+}

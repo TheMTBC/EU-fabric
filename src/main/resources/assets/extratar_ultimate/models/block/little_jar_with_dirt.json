@@ -1,0 +1,8 @@
+{
+  "parent": "extratar_ultimate:custom/little_jar_with_dirt",
+  "textures": {
+    "all": "extratar_ultimate:block/little_jar_with_dirt",
+    "particle": "extratar_ultimate:block/little_jar_with_dirt",
+    "0": "extratar_ultimate:block/little_jar_with_dirt"
+  }
+}

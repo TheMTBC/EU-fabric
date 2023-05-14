@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "extratar_ultimate:diamond_pick"
+  },
+  "result": {
+    "item": "extratar_ultimate:netherite_pick"
+  }
+}

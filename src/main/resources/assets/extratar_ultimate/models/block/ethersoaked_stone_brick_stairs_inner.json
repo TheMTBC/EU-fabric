@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "extratar_ultimate:block/ethersoaked_stone_bricks",
+    "side": "extratar_ultimate:block/ethersoaked_stone_bricks",
+    "top": "extratar_ultimate:block/ethersoaked_stone_bricks"
+  }
+}

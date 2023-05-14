@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "extratar_ultimate:block/telder_table_with_cloth"
+    },
+    "lit=true": {
+      "model": "extratar_ultimate:block/telder_table_with_cloth_lit"
+    }
+  }
+}

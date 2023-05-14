@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "T": {
+      "item": "extratar_ultimate:triangle"
+    }
+  },
+  "pattern": [
+    "###",
+    "#T#",
+    "###"
+  ],
+  "result": {
+    "item": "extratar_ultimate:golden_triangle"
+  }
+}

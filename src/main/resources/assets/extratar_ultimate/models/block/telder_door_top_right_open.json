@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "extratar_ultimate:block/telder_door_bottom",
+    "top": "extratar_ultimate:block/telder_door_top"
+  }
+}

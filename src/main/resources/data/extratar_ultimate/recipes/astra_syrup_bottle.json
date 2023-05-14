@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:astra_petal"
+    },
+    "A": {
+      "item": "extratar_ultimate:boiled_water_bottle"
+    },
+    "B": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "C": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "###"
+  ],
+  "result": {
+    "item": "extratar_ultimate:astra_syrup_bottle"
+  }
+}

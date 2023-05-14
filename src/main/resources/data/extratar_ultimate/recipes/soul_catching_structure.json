@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " J ",
+    "I#I",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:telder_steel_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "J": {
+      "item": "extratar_ultimate:little_jar"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:soul_catching_structure",
+    "count": 1
+  }
+}

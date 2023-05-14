@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{
+    "item": "extratar_ultimate:nether_crystal_block"
+  }],
+  "result": {
+    "item": "extratar_ultimate:nether_crystal",
+    "count": 9
+  }
+}

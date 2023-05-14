@@ -1,0 +1,30 @@
+{
+  "telder_samovar_use": {
+    "category": "block",
+    "subtitle": "subtitles.telder_samovar_uses",
+    "sounds": [
+      {
+        "name": "extratar_ultimate:telder_samovar_use",
+        "stream": false
+      }
+    ]
+  },
+  "yellow_peach_record": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "extratar_ultimate:yellow_peach_record",
+        "stream": false
+      }
+    ]
+  },
+  "triangle_record": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "extratar_ultimate:triangle_record",
+        "stream": false
+      }
+    ]
+  }
+}

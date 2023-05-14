@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:telder_wooden_planks"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "N#N",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "item": "extratar_ultimate:telder_crate"
+  }
+}

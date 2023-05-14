@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [{
+    "item": "extratar_ultimate:stripped_telder_log"
+  }],
+  "result": {
+    "item": "extratar_ultimate:telder_wooden_planks",
+    "count": 4
+  }
+}

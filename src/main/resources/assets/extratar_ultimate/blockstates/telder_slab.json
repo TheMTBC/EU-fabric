@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extratar_ultimate:block/telder_slab"
+    },
+    "type=double": {
+      "model": "extratar_ultimate:block/telder_wooden_planks"
+    },
+    "type=top": {
+      "model": "extratar_ultimate:block/telder_slab_top"
+    }
+  }
+}

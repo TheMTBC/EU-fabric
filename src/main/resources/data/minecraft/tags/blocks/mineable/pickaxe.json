@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "extratar_ultimate:earth_crystal_ore",
+    "extratar_ultimate:deepslate_earth_crystal_ore",
+    "extratar_ultimate:nether_crystal_ore",
+    "extratar_ultimate:end_crystal_ore",
+    "extratar_ultimate:telder_steel_ore",
+    "extratar_ultimate:deepslate_telder_steel_ore",
+    "extratar_ultimate:telder_steel_block",
+    "extratar_ultimate:mechanical_structure",
+    "extratar_ultimate:mechanical_core",
+    "extratar_ultimate:ethersoaked_stone",
+    "extratar_ultimate:ethersoaked_stone_slab",
+    "extratar_ultimate:ethersoaked_stone_stairs",
+    "extratar_ultimate:ethersoaked_stone_wall",
+    "extratar_ultimate:ethersoaked_cobblestone",
+    "extratar_ultimate:mossy_ethersoaked_cobblestone",
+    "extratar_ultimate:ethersoaked_cobblestone_slab",
+    "extratar_ultimate:ethersoaked_cobblestone_stairs",
+    "extratar_ultimate:ethersoaked_cobblestone_wall",
+    "extratar_ultimate:ethersoaked_stone_bricks",
+    "extratar_ultimate:mossy_ethersoaked_stone_bricks",
+    "extratar_ultimate:ethersoaked_stone_brick_slab",
+    "extratar_ultimate:ethersoaked_stone_brick_stairs",
+    "extratar_ultimate:ethersoaked_stone_brick_wall",
+    "extratar_ultimate:polished_ethersoaked_stone",
+    "extratar_ultimate:telder_jar",
+    "extratar_ultimate:sealed_telder_jar",
+    "extratar_ultimate:telder_samovar",
+    "extratar_ultimate:anchor_chain"
+  ]
+}

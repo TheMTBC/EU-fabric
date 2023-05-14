@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extratar_ultimate:earth_crystal"
+    },
+    {
+      "item": "extratar_ultimate:nether_crystal"
+    },
+    {
+      "item": "extratar_ultimate:end_crystal"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "extratar_ultimate:telder_pulveris"
+  }
+}

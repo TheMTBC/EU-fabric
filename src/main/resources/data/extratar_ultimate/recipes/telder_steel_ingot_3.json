@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{
+    "item": "extratar_ultimate:telder_steel_block"
+  }],
+  "result": {
+    "item": "extratar_ultimate:telder_steel_ingot",
+    "count": 9
+  }
+}

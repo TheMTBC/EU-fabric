@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:telder_wooden_planks"
+    },
+    "L": {
+      "item": "extratar_ultimate:telder_slab"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "SLS",
+    "SLS"
+  ],
+  "result": {
+    "item": "extratar_ultimate:telder_table"
+  }
+}

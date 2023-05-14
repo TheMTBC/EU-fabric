@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "extratar_ultimate:boiled_water_bottle"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "tag": "minecraft:small_flowers"
+    }
+  ],
+  "result": {
+    "item": "extratar_ultimate:tea_with_milk_bottle",
+    "count": 1
+  }
+}

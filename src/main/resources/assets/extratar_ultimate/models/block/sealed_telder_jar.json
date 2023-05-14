@@ -1,0 +1,10 @@
+{
+  "parent": "extratar_ultimate:custom/sealed_telder_jar",
+  "textures": {
+    "all": "extratar_ultimate:block/telder_jar_side",
+    "particle": "extratar_ultimate:block/telder_jar_side",
+    "0": "extratar_ultimate:block/telder_jar_bottom",
+    "1": "extratar_ultimate:block/telder_jar_side",
+    "2": "extratar_ultimate:block/telder_jar_top"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "minecraft:block/barrier"
+    },
+    "facing=north,half=lower": {
+      "model": "extratar_ultimate:block/anchor"
+    },
+    "facing=east,half=lower": {
+      "model": "extratar_ultimate:block/anchor",
+      "y": 90
+    },
+    "facing=south,half=lower": {
+      "model": "extratar_ultimate:block/anchor",
+      "y": 180
+    },
+    "facing=west,half=lower": {
+      "model": "extratar_ultimate:block/anchor",
+      "y": 270
+    }
+  }
+}

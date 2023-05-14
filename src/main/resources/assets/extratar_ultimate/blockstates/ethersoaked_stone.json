@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extratar_ultimate:block/ethersoaked_stone"
+      },
+      {
+        "model": "extratar_ultimate:block/ethersoaked_stone_mirrored"
+      },
+      {
+        "model": "extratar_ultimate:block/ethersoaked_stone",
+        "y": 180
+      },
+      {
+        "model": "extratar_ultimate:block/ethersoaked_stone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

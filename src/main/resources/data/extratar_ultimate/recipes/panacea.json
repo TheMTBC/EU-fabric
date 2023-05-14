@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "A": {
+      "item": "minecraft:golden_apple"
+    },
+    "B": {
+      "item": "extratar_ultimate:astra_petal"
+    },
+    "C": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "item": "extratar_ultimate:panacea",
+    "count": 2
+  }
+}

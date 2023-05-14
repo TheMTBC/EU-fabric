@@ -1,0 +1,8 @@
+{
+  "parent": "extratar_ultimate:custom/peach_jam_jar",
+  "textures": {
+    "all": "extratar_ultimate:block/peach_jam_jar",
+    "particle": "extratar_ultimate:block/peach_jam_jar",
+    "0": "extratar_ultimate:block/peach_jam_jar"
+  }
+}

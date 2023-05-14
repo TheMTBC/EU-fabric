@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "extratar_ultimate:block/telder_wooden_planks",
+    "particle": "extratar_ultimate:block/telder_wooden_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "extratar_ultimate:custom/telder_crate",
+  "textures": {
+    "all": "extratar_ultimate:block/telder_crate_front",
+    "particle": "extratar_ultimate:block/telder_crate_front",
+    "0": "extratar_ultimate:block/telder_crate_front",
+    "1": "extratar_ultimate:block/telder_crate_side",
+    "2": "extratar_ultimate:block/telder_crate_top"
+  }
+}

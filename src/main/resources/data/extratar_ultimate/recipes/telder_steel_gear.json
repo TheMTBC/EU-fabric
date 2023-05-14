@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#S#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:telder_steel_nugget"
+    },
+    "S":{
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:telder_steel_gear",
+    "count": 2
+  }
+}

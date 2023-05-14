@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "extratar_ultimate:block/telder_log_top",
+    "side": "extratar_ultimate:block/telder_log"
+  }
+}

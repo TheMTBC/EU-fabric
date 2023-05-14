@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "extratar_ultimate",
+  "version": "${version}",
+  "name": "Extratar Ultimate",
+  "description": "Immerse yourself in the Telder story!",
+  "authors": [
+    "Faradey - Original developer",
+    "Laefye - Developer of THIS mod for Fabric"
+  ],
+  "contact": {
+    "website": "https://github.com/Laefye/Extratar-Ultimate"
+  },
+  "license": "MIT",
+  "icon": "assets/extratar_ultimate/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.yellowfire.extratarultimate.client.ExtratarUltimateClient"
+    ],
+    "main": [
+      "com.yellowfire.extratarultimate.ExtratarUltimate"
+    ]
+  },
+  "mixins": [
+    "extratar_ultimate.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}

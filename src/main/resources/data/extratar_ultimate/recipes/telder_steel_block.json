@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "extratar_ultimate:telder_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:telder_steel_block",
+    "count": 1
+  }
+}

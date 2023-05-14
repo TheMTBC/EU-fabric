@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "extratar_ultimate:block/ethersoaked_stone"
+  }
+}

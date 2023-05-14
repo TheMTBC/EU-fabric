@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "IMI",
+    "SES",
+    "WWW"
+  ],
+  "key": {
+    "I": {
+      "item": "extratar_ultimate:yellow_peach"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:peach_pie",
+    "count": 1
+  }
+}

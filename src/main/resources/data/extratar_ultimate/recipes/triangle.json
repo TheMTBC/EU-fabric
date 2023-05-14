@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "M": {
+      "item": "minecraft:cooked_beef"
+    },
+    "P": {
+      "item": "minecraft:baked_potato"
+    }
+  },
+  "pattern": [
+    " W ",
+    " M ",
+    "WPW"
+  ],
+  "result": {
+    "item": "extratar_ultimate:triangle"
+  }
+}

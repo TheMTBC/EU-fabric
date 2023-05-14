@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extratar_ultimate:block/ethersoaked_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "extratar_ultimate:block/ethersoaked_stone_bricks"
+    },
+    "type=top": {
+      "model": "extratar_ultimate:block/ethersoaked_stone_brick_slab_top"
+    }
+  }
+}

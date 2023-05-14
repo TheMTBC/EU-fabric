@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "A": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    " # ",
+    "A A",
+    " A "
+  ],
+  "result": {
+    "item": "extratar_ultimate:little_jar",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "I": {
+      "item": "extratar_ultimate:telder_steel_ingot"
+    },
+    "P": {
+      "item": "extratar_ultimate:telder_pulveris"
+    },
+    "S": {
+      "item": "extratar_ultimate:little_jar_with_soul"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "PSP",
+    "IPI"
+  ],
+  "result": {
+    "item": "extratar_ultimate:mechanical_core"
+  }
+}

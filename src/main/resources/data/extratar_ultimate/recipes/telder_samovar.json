@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#I#",
+    "IWI",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "item": "extratar_ultimate:telder_steel_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "extratar_ultimate:telder_pulveris"
+    }
+  },
+  "result": {
+    "item": "extratar_ultimate:telder_samovar",
+    "count": 1
+  }
+}

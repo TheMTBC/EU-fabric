@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "extratar_ultimate:block/lightelet",
+    "particle": "extratar_ultimate:block/lightelet"
+  }
+}

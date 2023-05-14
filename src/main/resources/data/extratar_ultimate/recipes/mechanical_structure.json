@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "N": {
+      "item": "extratar_ultimate:telder_steel_nugget"
+    },
+    "G": {
+      "item": "extratar_ultimate:telder_steel_gear"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "NGN",
+    "GRG",
+    "NGN"
+  ],
+  "result": {
+    "item": "extratar_ultimate:mechanical_structure"
+  }
+}

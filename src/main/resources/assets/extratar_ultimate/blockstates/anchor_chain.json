@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "extratar_ultimate:block/anchor_chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "extratar_ultimate:block/anchor_chain"
+    },
+    "axis=z": {
+      "model": "extratar_ultimate:block/anchor_chain",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_cobblestone",
+  "ingredients": [
+    {
+      "item": "extratar_ultimate:telder_steel_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "extratar_ultimate:telder_steel_nugget"
+  }
+}

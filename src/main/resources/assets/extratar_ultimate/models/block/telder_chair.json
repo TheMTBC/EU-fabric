@@ -1,0 +1,8 @@
+{
+  "parent": "extratar_ultimate:custom/telder_chair",
+  "textures": {
+    "all": "extratar_ultimate:block/telder_chair",
+    "particle": "extratar_ultimate:block/telder_chair",
+    "0": "extratar_ultimate:block/telder_chair"
+  }
+}

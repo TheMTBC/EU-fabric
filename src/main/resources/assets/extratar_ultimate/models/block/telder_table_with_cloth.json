@@ -1,0 +1,12 @@
+{
+  "parent": "extratar_ultimate:custom/telder_table_with_cloth",
+  "textures": {
+    "all": "extratar_ultimate:block/telder_table_with_cloth",
+    "particle": "extratar_ultimate:block/telder_table_with_cloth",
+    "0": "extratar_ultimate:block/telder_table",
+    "1": "extratar_ultimate:block/telder_chair",
+    "2": "extratar_ultimate:block/telder_wooden_planks",
+    "3": "extratar_ultimate:block/telder_table_with_cloth",
+    "4": "extratar_ultimate:block/telder_table_with_cloth_side"
+  }
+}

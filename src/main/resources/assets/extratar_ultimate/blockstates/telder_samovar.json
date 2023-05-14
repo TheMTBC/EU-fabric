@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extratar_ultimate:block/telder_samovar"
+    },
+    "facing=east": {
+      "model": "extratar_ultimate:block/telder_samovar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extratar_ultimate:block/telder_samovar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extratar_ultimate:block/telder_samovar",
+      "y": 270
+    }
+  }
+}

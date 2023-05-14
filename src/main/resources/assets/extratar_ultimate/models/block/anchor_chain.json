@@ -1,0 +1,8 @@
+{
+  "parent": "extratar_ultimate:custom/anchor_chain",
+  "textures": {
+    "all": "extratar_ultimate:block/anchor_chain",
+    "particle": "extratar_ultimate:block/anchor_chain",
+    "0": "extratar_ultimate:block/anchor_chain"
+  }
+}

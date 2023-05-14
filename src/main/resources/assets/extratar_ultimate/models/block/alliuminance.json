@@ -1,0 +1,8 @@
+{
+  "parent": "extratar_ultimate:custom/alliuminance",
+  "textures": {
+    "all": "extratar_ultimate:block/alliuminance",
+    "particle": "extratar_ultimate:block/alliuminance",
+    "0": "extratar_ultimate:block/alliuminance"
+  }
+}
